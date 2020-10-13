@@ -1,2 +1,2 @@
 # http://wheeler-gwc.github.io/gwc-website
-Girls Who Code site
+Girls Who Code Website
